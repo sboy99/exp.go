@@ -3,9 +3,9 @@ package file
 import (
 	"encoding/json"
 
-	"github.com/sboy99/learn-go/go-book-store/infra/exceptions"
-	"github.com/sboy99/learn-go/go-book-store/internal/domain/models"
-	"github.com/sboy99/learn-go/go-book-store/internal/helpers"
+	"github.com/sboy99/exp.go/go-book-store/infra/exceptions"
+	"github.com/sboy99/exp.go/go-book-store/internal/domain/models"
+	"github.com/sboy99/exp.go/go-book-store/internal/helpers"
 )
 
 type BookFileRepository struct{}

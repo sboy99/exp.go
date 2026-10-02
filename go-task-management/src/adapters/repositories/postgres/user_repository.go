@@ -2,8 +2,8 @@ package postgres
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/domain/models"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/helpers"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/domain/models"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/helpers"
 )
 
 // user repository structure

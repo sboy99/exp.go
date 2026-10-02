@@ -3,8 +3,8 @@ package postgres
 import (
 	"errors"
 
-	"github.com/sboy99/learn-go/go-todo/internal/domain/models"
-	"github.com/sboy99/learn-go/go-todo/internal/helpers"
+	"github.com/sboy99/exp.go/go-todo/internal/domain/models"
+	"github.com/sboy99/exp.go/go-todo/internal/helpers"
 	"gorm.io/gorm"
 )
 

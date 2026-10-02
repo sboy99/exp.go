@@ -1,4 +1,4 @@
-module github.com/sboy99/learn-go/go-task-management
+module github.com/sboy99/exp.go/go-task-management
 
 go 1.21.6
 

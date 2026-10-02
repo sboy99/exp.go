@@ -2,9 +2,9 @@ package routers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/sboy99/learn-go/go-book-store/adapters/controllers"
-	"github.com/sboy99/learn-go/go-book-store/adapters/repositories/file"
-	"github.com/sboy99/learn-go/go-book-store/internal/services"
+	"github.com/sboy99/exp.go/go-book-store/adapters/controllers"
+	"github.com/sboy99/exp.go/go-book-store/adapters/repositories/file"
+	"github.com/sboy99/exp.go/go-book-store/internal/services"
 )
 
 func RegisterBookRoutes(router *gin.Engine) {

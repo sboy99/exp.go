@@ -1,13 +1,13 @@
 package app
 
 import (
-	"github.com/sboy99/learn-go/go-task-management/src/adapters/controllers"
-	"github.com/sboy99/learn-go/go-task-management/src/adapters/controllers/transformers"
-	"github.com/sboy99/learn-go/go-task-management/src/adapters/repositories/postgres"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/domain/models"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/helpers"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/services"
-	"github.com/sboy99/learn-go/go-task-management/src/routers"
+	"github.com/sboy99/exp.go/go-task-management/src/adapters/controllers"
+	"github.com/sboy99/exp.go/go-task-management/src/adapters/controllers/transformers"
+	"github.com/sboy99/exp.go/go-task-management/src/adapters/repositories/postgres"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/domain/models"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/helpers"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/services"
+	"github.com/sboy99/exp.go/go-task-management/src/routers"
 )
 
 func (app *App) RegisterRouters() {

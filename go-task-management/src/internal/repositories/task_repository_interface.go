@@ -1,6 +1,6 @@
 package repositories
 
-import "github.com/sboy99/learn-go/go-task-management/src/internal/domain/models"
+import "github.com/sboy99/exp.go/go-task-management/src/internal/domain/models"
 
 type ITaskRepository interface {
 	Create(creatorId uint, name string, priority int) *models.Task

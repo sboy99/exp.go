@@ -4,8 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	"github.com/redis/go-redis/v9"
-	"github.com/sboy99/learn-go/go-task-management/src/infra/cache"
-	"github.com/sboy99/learn-go/go-task-management/src/infra/db"
+	"github.com/sboy99/exp.go/go-task-management/src/infra/cache"
+	"github.com/sboy99/exp.go/go-task-management/src/infra/db"
 )
 
 type App struct {

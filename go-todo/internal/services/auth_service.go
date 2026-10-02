@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/sboy99/learn-go/go-todo/infra/exception"
-	"github.com/sboy99/learn-go/go-todo/internal/domain/models"
-	"github.com/sboy99/learn-go/go-todo/internal/ports"
+	"github.com/sboy99/exp.go/go-todo/infra/exception"
+	"github.com/sboy99/exp.go/go-todo/internal/domain/models"
+	"github.com/sboy99/exp.go/go-todo/internal/ports"
 )
 
 // ------------------------------STRUCTS---------------------------------- //

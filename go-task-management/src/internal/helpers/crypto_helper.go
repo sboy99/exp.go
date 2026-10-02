@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/sboy99/learn-go/go-task-management/src/infra/exceptions"
+	"github.com/sboy99/exp.go/go-task-management/src/infra/exceptions"
 	"golang.org/x/crypto/bcrypt"
 )
 

@@ -1,4 +1,4 @@
-module github.com/sboy99/learn-go/go-auth
+module github.com/sboy99/exp.go/go-auth
 
 go 1.21.6
 

@@ -2,7 +2,7 @@ package stratigies
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/sboy99/learn-go/go-todo/internal/ports"
+	"github.com/sboy99/exp.go/go-todo/internal/ports"
 )
 
 // --------------------------------CONSTANTS---------------------------------- //

@@ -1,4 +1,4 @@
-module github.com/sboy99/learn-go/go-book-store
+module github.com/sboy99/exp.go/go-book-store
 
 go 1.21.6
 

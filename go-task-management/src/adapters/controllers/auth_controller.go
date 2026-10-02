@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/sboy99/learn-go/go-task-management/src/adapters/controllers/transformers"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/services"
+	"github.com/sboy99/exp.go/go-task-management/src/adapters/controllers/transformers"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/services"
 )
 
 type AuthController struct {

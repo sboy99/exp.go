@@ -6,9 +6,9 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/gofiber/fiber/v2/middleware/recover"
-	"github.com/sboy99/learn-go/go-todo/infra/config"
-	"github.com/sboy99/learn-go/go-todo/infra/database"
-	"github.com/sboy99/learn-go/go-todo/internal/domain/models"
+	"github.com/sboy99/exp.go/go-todo/infra/config"
+	"github.com/sboy99/exp.go/go-todo/infra/database"
+	"github.com/sboy99/exp.go/go-todo/internal/domain/models"
 	"gorm.io/gorm"
 )
 

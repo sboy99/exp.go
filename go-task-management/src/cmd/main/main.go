@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sboy99/learn-go/go-task-management/src/app"
+	"github.com/sboy99/exp.go/go-task-management/src/app"
 )
 
 func main() {

@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/sboy99/learn-go/go-todo/adapters/handlers/rest/dtos"
-	"github.com/sboy99/learn-go/go-todo/internal/ports"
+	"github.com/sboy99/exp.go/go-todo/adapters/handlers/rest/dtos"
+	"github.com/sboy99/exp.go/go-todo/internal/ports"
 )
 
 // ------------------------------INTERFACES---------------------------------- //

@@ -1,12 +1,12 @@
 package app
 
 import (
-	"github.com/sboy99/learn-go/go-todo/adapters/handlers/rest"
-	"github.com/sboy99/learn-go/go-todo/adapters/handlers/rest/transformers"
-	"github.com/sboy99/learn-go/go-todo/adapters/jwt"
-	"github.com/sboy99/learn-go/go-todo/adapters/repositories/postgres"
-	"github.com/sboy99/learn-go/go-todo/internal/helpers"
-	"github.com/sboy99/learn-go/go-todo/internal/services"
+	"github.com/sboy99/exp.go/go-todo/adapters/handlers/rest"
+	"github.com/sboy99/exp.go/go-todo/adapters/handlers/rest/transformers"
+	"github.com/sboy99/exp.go/go-todo/adapters/jwt"
+	"github.com/sboy99/exp.go/go-todo/adapters/repositories/postgres"
+	"github.com/sboy99/exp.go/go-todo/internal/helpers"
+	"github.com/sboy99/exp.go/go-todo/internal/services"
 	"gorm.io/gorm"
 )
 

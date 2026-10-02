@@ -3,7 +3,7 @@ package db
 import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
-	"github.com/sboy99/learn-go/go-task-management/src/infra/exceptions"
+	"github.com/sboy99/exp.go/go-task-management/src/infra/exceptions"
 )
 
 func Connect() *gorm.DB {

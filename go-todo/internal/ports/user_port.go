@@ -1,7 +1,7 @@
 package ports
 
 import (
-	"github.com/sboy99/learn-go/go-todo/internal/domain/models"
+	"github.com/sboy99/exp.go/go-todo/internal/domain/models"
 )
 
 // -------------------------------INTERFACES--------------------------------- //

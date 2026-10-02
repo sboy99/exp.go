@@ -1,4 +1,4 @@
-module github.com/sboy99/learn-go/go-todo
+module github.com/sboy99/exp.go/go-todo
 
 go 1.21.6
 

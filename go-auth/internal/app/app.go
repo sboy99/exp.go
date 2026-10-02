@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/sboy99/learn-go/go-auth/internal/routers"
+	"github.com/sboy99/exp.go/go-auth/internal/routers"
 )
 
 var app *fiber.App

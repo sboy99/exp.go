@@ -1,10 +1,10 @@
 package services
 
 import (
-	"github.com/sboy99/learn-go/go-task-management/src/internal/cache"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/domain/models"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/helpers"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/repositories"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/cache"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/domain/models"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/helpers"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/repositories"
 )
 
 type AuthService struct {

@@ -1,7 +1,7 @@
 package services
 
 import (
-	"github.com/sboy99/learn-go/go-book-store/internal/domain/models"
+	"github.com/sboy99/exp.go/go-book-store/internal/domain/models"
 )
 
 type IBookService interface {

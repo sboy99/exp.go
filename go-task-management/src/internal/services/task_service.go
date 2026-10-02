@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/sboy99/learn-go/go-task-management/src/internal/domain/models"
-	"github.com/sboy99/learn-go/go-task-management/src/internal/repositories"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/domain/models"
+	"github.com/sboy99/exp.go/go-task-management/src/internal/repositories"
 )
 
 type TaskService struct {

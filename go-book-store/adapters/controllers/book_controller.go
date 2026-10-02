@@ -6,10 +6,10 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/sboy99/learn-go/go-book-store/adapters/controllers/dtos"
-	"github.com/sboy99/learn-go/go-book-store/internal/domain/models"
-	"github.com/sboy99/learn-go/go-book-store/internal/helpers"
-	"github.com/sboy99/learn-go/go-book-store/internal/services"
+	"github.com/sboy99/exp.go/go-book-store/adapters/controllers/dtos"
+	"github.com/sboy99/exp.go/go-book-store/internal/domain/models"
+	"github.com/sboy99/exp.go/go-book-store/internal/helpers"
+	"github.com/sboy99/exp.go/go-book-store/internal/services"
 )
 
 type BookController struct {

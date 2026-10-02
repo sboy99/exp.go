@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/sboy99/learn-go/go-todo/infra/config"
+	"github.com/sboy99/exp.go/go-todo/infra/config"
 )
 
 // ------------------------------STRUCTS---------------------------------- //

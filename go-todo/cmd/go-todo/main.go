@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/sboy99/learn-go/go-todo/app"
+	"github.com/sboy99/exp.go/go-todo/app"
 )
 
 func main() {

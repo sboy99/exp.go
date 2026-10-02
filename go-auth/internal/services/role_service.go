@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/sboy99/learn-go/go-auth/internal/models"
-	"github.com/sboy99/learn-go/go-auth/internal/repositories"
+	"github.com/sboy99/exp.go/go-auth/internal/models"
+	"github.com/sboy99/exp.go/go-auth/internal/repositories"
 )
 
 // -----------------------------INTERFACES-------------------------------- //

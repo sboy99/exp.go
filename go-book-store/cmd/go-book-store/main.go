@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/sboy99/learn-go/go-book-store/adapters/repositories/file"
-	"github.com/sboy99/learn-go/go-book-store/internal/routers"
+	"github.com/sboy99/exp.go/go-book-store/adapters/repositories/file"
+	"github.com/sboy99/exp.go/go-book-store/internal/routers"
 )
 
 func main() {
